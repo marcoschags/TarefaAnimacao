@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/marco/Downloads/Tarefa-AnimacoesEmMatrizDeLEDs/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/marco/Downloads/TarefaAnimacao/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
